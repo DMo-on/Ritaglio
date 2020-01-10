@@ -5,8 +5,5 @@ This project implements techniques like : Indexation, Distance Similarity and Na
 
 
 <div align="center">
-  <img src="https://github.com/DMo-on/Ritaglio/tree/master/Screens/Index.png?raw=true" ></img>
-  <img src="https://github.com/DMo-on/Ritaglio/tree/master/Screens/ResultatRecherche.png?raw=true"  style="border-style: dotted;border-color:##0a111c;"></img>
- <img src="https://github.com/DMo-on/Ritaglio/tree/master/Screens/Settings.png?raw=true"  style="border-style: dotted;border-color:##0a111c;"></img>
-  <img src="https://github.com/DMo-on/Ritaglio/tree/master/Screens/EvaluationLong.png?raw=true"  style="border-style: dotted;border-color:##0a111c;"></img>
+  <img src="https://github.com/DMo-on/Ritaglio/blob/master/Screens/Index.png?raw=true"  style="border-style: dotted;border-color:##0a111c;"></img>
   </div>
